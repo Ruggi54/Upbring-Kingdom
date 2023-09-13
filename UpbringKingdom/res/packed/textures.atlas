@@ -1,0 +1,313 @@
+
+textures.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Cestino_Blu
+  rotate: false
+  xy: 595, 54
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+Cestino_Giallo
+  rotate: false
+  xy: 835, 122
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+Cestino_Grigio
+  rotate: false
+  xy: 835, 2
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+boy_stand_east
+  rotate: false
+  xy: 715, 242
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: -1
+boy_walk_east
+  rotate: false
+  xy: 715, 242
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: 1
+fontana
+  rotate: false
+  xy: 595, 650
+  size: 354, 354
+  orig: 354, 354
+  offset: 0, 0
+  index: -1
+house_legno
+  rotate: false
+  xy: 2, 532
+  size: 591, 472
+  orig: 591, 472
+  offset: 0, 0
+  index: -1
+house_red
+  rotate: false
+  xy: 2, 58
+  size: 591, 472
+  orig: 591, 472
+  offset: 0, 0
+  index: -1
+panchina_orizzontale
+  rotate: false
+  xy: 595, 530
+  size: 354, 118
+  orig: 354, 118
+  offset: 0, 0
+  index: -1
+panchina_verticale
+  rotate: false
+  xy: 595, 174
+  size: 118, 354
+  orig: 118, 354
+  offset: 0, 0
+  index: -1
+tree_tall
+  rotate: false
+  xy: 901, 292
+  size: 118, 236
+  orig: 118, 236
+  offset: 0, 0
+  index: -1
+tree_tall_spigoli
+  rotate: false
+  xy: 715, 4
+  size: 118, 236
+  orig: 118, 236
+  offset: 0, 0
+  index: -1
+
+textures2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Cestino_Verde
+  rotate: false
+  xy: 2, 2
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+bottiglietta_trash
+  rotate: false
+  xy: 560, 290
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+boy_stand_north
+  rotate: false
+  xy: 2, 698
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: -1
+boy_walk_north
+  rotate: false
+  xy: 2, 698
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: 1
+boy_stand_south
+  rotate: false
+  xy: 2, 410
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: -1
+boy_walk_south
+  rotate: false
+  xy: 2, 410
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: 1
+boy_stand_west
+  rotate: false
+  xy: 188, 698
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: -1
+boy_walk_west
+  rotate: false
+  xy: 188, 698
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: 1
+boy_walk_east
+  rotate: false
+  xy: 2, 122
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: 0
+boy_walk_east
+  rotate: false
+  xy: 188, 410
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: 2
+boy_walk_north
+  rotate: false
+  xy: 374, 698
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: 0
+boy_walk_north
+  rotate: false
+  xy: 188, 122
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: 2
+boy_walk_south
+  rotate: false
+  xy: 374, 410
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: 0
+boy_walk_south
+  rotate: false
+  xy: 560, 698
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: 2
+boy_walk_west
+  rotate: false
+  xy: 374, 122
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: 0
+boy_walk_west
+  rotate: false
+  xy: 560, 410
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: 2
+carta_trash
+  rotate: false
+  xy: 746, 578
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+cucchiaio_trash
+  rotate: false
+  xy: 122, 2
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+elderly_south
+  rotate: false
+  xy: 746, 698
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: -1
+fiori_blu
+  rotate: false
+  xy: 560, 170
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+fiori_rosa
+  rotate: false
+  xy: 746, 458
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+insegna_casa
+  rotate: false
+  xy: 242, 2
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+mela_trash
+  rotate: false
+  xy: 362, 2
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+staccionata_alto_centro
+  rotate: false
+  xy: 482, 2
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+staccionata_alto_destra
+  rotate: false
+  xy: 680, 290
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+staccionata_alto_sinistra
+  rotate: false
+  xy: 680, 170
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+staccionata_basso_centro
+  rotate: false
+  xy: 602, 50
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+staccionata_basso_destra
+  rotate: false
+  xy: 722, 50
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+staccionata_basso_sinistra
+  rotate: false
+  xy: 866, 578
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+staccionata_centro_destra
+  rotate: false
+  xy: 866, 458
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+staccionata_centro_sinistra
+  rotate: false
+  xy: 800, 338
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
